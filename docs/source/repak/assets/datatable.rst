@@ -4,7 +4,7 @@ Datatables
 Examples:
 =========
 
-1. Example Datatable Asset
+1. Example Datatable Asset haha
 --------------------------
 
 .. code-block:: json
